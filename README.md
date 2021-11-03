@@ -5,4 +5,7 @@ To product my submission without retraining, do the following step:
   2. [Download Pretrained model](https://drive.google.com/uc?export=download&id=1yKz2pEB2N6u9DKrmtio9-RaDM3h29u6s)
   3. [Download Inference.py(make submission)](https://drive.google.com/uc?export=download&id=1MxxValX4DfHhJn0c8A4CPdWX6Vo7S87R)
   
-> !python Inference.py --model_path model.pth --data_path classes.txt --test_dir testing_images --test_label testing_img_order.txt
+  
+```
+!python Inference.py --model_path model.pth --data_path classes.txt --test_dir testing_images --test_label testing_img_order.txt
+```
