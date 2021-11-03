@@ -6,6 +6,11 @@ To product my submission without retraining, do the following step:
     * classes.txt
     * testing_images(test image putting in this Folder)
     * testing_img_order.txt  
+    
+    * 昵称：果冻虾仁
+    - 别名：隔壁老王
+    * 英文名：Jelly
+
   
   2. [Download Pretrained model](https://drive.google.com/uc?export=download&id=1yKz2pEB2N6u9DKrmtio9-RaDM3h29u6s)
   3. [Download Inference.py(make submission)](https://drive.google.com/uc?export=download&id=1MxxValX4DfHhJn0c8A4CPdWX6Vo7S87R)
