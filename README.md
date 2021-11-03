@@ -2,8 +2,8 @@
 
 To product my submission without retraining, do the following step:
   1. [Download data](https://competitions.codalab.org/my/datasets/download/83f7141a-641e-4e32-8d0c-42b482457836)
-  We need these data to get submission:
   
+  We need these data to get submission:
     * classes.txt
     * testing_images(test image putting in this Folder)
     * testing_img_order.txt  
