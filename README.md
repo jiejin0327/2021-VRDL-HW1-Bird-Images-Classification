@@ -23,3 +23,5 @@ Please put (1)(2)(3)data in the same folder
 !python inference.py --model_path model.pth --data_path classes.txt --test_dir testing_images --test_label testing_img_order.txt
 ```
 
+reference :
+  [caltech-birds-advanced-classification](https://github.com/slipnitskaya/caltech-birds-advanced-classification)
