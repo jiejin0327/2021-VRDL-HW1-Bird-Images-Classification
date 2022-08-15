@@ -1,5 +1,9 @@
 # bird-species-classification
 
+This project is bird species classification. 
+
+The dataset contained 6,033 bird images belonging to 200 bird species, e.g., tree sparrow or mockingbird (training: 3,000, test: 3,033)
+
 To product my submission without retraining, do the following step:
   1. [Download data](https://competitions.codalab.org/my/datasets/download/83f7141a-641e-4e32-8d0c-42b482457836)
   
