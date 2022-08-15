@@ -1,6 +1,5 @@
 # bird-species-classification
 
-
 To product my submission without retraining, do the following step:
   1. [Download data](https://competitions.codalab.org/my/datasets/download/83f7141a-641e-4e32-8d0c-42b482457836)
   
