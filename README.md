@@ -1,5 +1,5 @@
 # 2021 VRDL HW1 Bird Images Classification
-[https://github.com/jiejin0327/2021-VRDL-HW1-Bird-Images-Classification/blob/main/report.JPG]
+![report](https://github.com/jiejin0327/2021-VRDL-HW1-Bird-Images-Classification/blob/main/report.JPG)
 
 This project is bird species classification using deep learning models. 
 
