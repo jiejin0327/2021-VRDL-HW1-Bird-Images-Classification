@@ -1,9 +1,9 @@
 # 2021 VRDL HW1 Bird Images Classification
-![report](https://github.com/jiejin0327/2021-VRDL-HW1-Bird-Images-Classification/blob/main/report.JPG)
-
 This project is bird species classification using deep learning models. 
 
 The dataset contained 6,033 bird images belonging to 200 bird species, e.g., tree sparrow or mockingbird (training: 3,000, test: 3,033)
+
+![report](https://github.com/jiejin0327/2021-VRDL-HW1-Bird-Images-Classification/blob/main/report.JPG)
 
 ## Introduction
 This project is a bird classifier that uses the PyTorch framework and the ResNet50 model. It leverages data augmentation, learning rate adjustment and other techniques to enhance the accuracy. It can recognize the species of birds in images based on their visual features. It supports 200 different categories of birds. 
